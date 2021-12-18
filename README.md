@@ -1,4 +1,4 @@
-# sudokuSolverV1
+# Sudoku Solver v1
 This is the initial implementation of a Sudoku Solver in Java from back in 2010.
 
 Kept here for posterity
